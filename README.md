@@ -1,5 +1,5 @@
 <!-- Banner com fundo vermelho e emojis personalizados -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=header&text=%20Suporte%20Técnico%20e%20%20Desenvolvedora%20Web%20Full%20Stack%20em%20formação&fontColor=ffffff&fontSize=24&animation=fadeIn" width="2000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=header&text=%20Suporte%20Técnico%20e%20%20Desenvolvedora%20Web%20Full-Stack%20em%20formação&fontColor=ffffff&fontSize=24&animation=fadeIn" width="2000"/>
 
 <!-- GitHub cards em tabela (deixe fora do div para manter o layout correto) -->
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emanuellerego&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emanuellerego&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
